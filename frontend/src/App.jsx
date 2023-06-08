@@ -13,7 +13,7 @@ function App() {
   const [chats, setChats] = useState([]);
   const [isTyping, setIsTyping] = useState(false);
   const [modelConfigs, setModelConfigs] = useState({
-    api_key: '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',
+    api_key: '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',
     model: 'gpt-3.5-turbo',
     temperature: 0,
     max_tokens: 100,

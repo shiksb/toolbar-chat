@@ -15,7 +15,7 @@ const MOCK = {
   content: "This is a mock response."
 }
 
-const API_KEY = "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";
+const API_KEY = "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";
 let openai;
 let enc = tiktoken.getEncoding("gpt2");
 
